@@ -230,11 +230,15 @@ Interactive AI systems with human feedback
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashumishra2104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/ashumishra2104">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashumishra2104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashumishra2104&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/ashumishra2104">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashumishra2104&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashumishra2104&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ashumishra2104&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
