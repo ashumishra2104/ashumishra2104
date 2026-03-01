@@ -230,15 +230,10 @@ Interactive AI systems with human feedback
 
 <div align="center">
 
-<a href="https://github.com/ashumishra2104">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashumishra2104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashumishra2104&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashumishra2104&layout=compact&theme=radical&langs_count=6" alt="Top Languages"/>
 
-<a href="https://github.com/ashumishra2104">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashumishra2104&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</a>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ashumishra2104&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=ashumishra2104&theme=radical" alt="GitHub Streak Stats" />
 
 </div>
 
