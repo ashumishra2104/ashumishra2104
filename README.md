@@ -18,6 +18,7 @@
 
 > I write for Product Managers and Leaders navigating the AI era — practical, no-fluff takes on AI, system design, and technical concepts that actually matter to your work.
 
+<!-- BLOG-LIST:START -->
 | 🗓️ | Title | Theme |
 |----|-------|-------|
 | 🆕 | [**AI in the Last 7 Days: What PMs Should Actually Pay Attention To**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/ai_in_the_last_7_days_what_product_managers_should_actually_pay_attention_to.md) | AI News & PM Strategy |
@@ -27,6 +28,7 @@
 | 📌 | [**Understanding Attention Mechanisms: A PM's Guide**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/understanding_attention_mechanisms_a_product_managers_guide.md) | AI/ML Fundamentals |
 | 📌 | [**From Transistors to GPUs: What Computing Evolution Means for PMs**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/from_transistors_to_gpus_what_the_evolution_of_computing_means_for_product_managers.md) | Computing History & Strategy |
 | 📌 | [**How Millions Watch India vs Pakistan Live Without Lag**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/how_millions_are_watching_india_vs_pakistan_live_without_lag.md) | System Design |
+<!-- BLOG-LIST:END -->
 
 📖 **[View All Blogs →](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-)**
 
