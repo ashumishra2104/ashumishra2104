@@ -21,13 +21,13 @@
 <!-- BLOG-LIST:START -->
 | 🗓️ | Title | Theme |
 |----|-------|-------|
-| 🆕 | [**AI in the Last 7 Days: What PMs Should Actually Pay Attention To**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/ai_in_the_last_7_days_what_product_managers_should_actually_pay_attention_to.md) | AI News & PM Strategy |
-| 📌 | [**LLM Evals for PMs: Types, Trade-offs & When to Use Them**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/llm_evals_for_product_managers_types_trade-offs_and_when_to_use_them.md) | AI Evaluation |
-| 📌 | [**Coding for PMs in the Era of AI: From Faster Prototypes to Safer Shipping**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/coding_for_pms_in_the_era_of_ai_from_faster_prototypes_to_safer_shipping.md) | Technical Skills for PMs |
-| 📌 | [**SQL vs NoSQL vs Vector Databases: A PM Decision Guide**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/sql_vs_nosql_vs_vector_databases_a_pm_decision_guide.md) | Data Architecture |
-| 📌 | [**Understanding Attention Mechanisms: A PM's Guide**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/understanding_attention_mechanisms_a_product_managers_guide.md) | AI/ML Fundamentals |
-| 📌 | [**From Transistors to GPUs: What Computing Evolution Means for PMs**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/from_transistors_to_gpus_what_the_evolution_of_computing_means_for_product_managers.md) | Computing History & Strategy |
-| 📌 | [**How Millions Watch India vs Pakistan Live Without Lag**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/how_millions_are_watching_india_vs_pakistan_live_without_lag.md) | System Design |
+| 🆕 | [**Leveraging the 4d Framework for Product Management in the Age of Ai**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/leveraging_the_4d_framework_for_product_management_in_the_age_of_ai.md) | AI / ML |
+| 📌 | [**Ai in the Last 7 Days what Product Managers Should Actually Pay Attention to**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/ai_in_the_last_7_days_what_product_managers_should_actually_pay_attention_to.md) | AI News & PM Strategy |
+| 📌 | [**From Transistors to Gpus what the Evolution of Computing Means for Product Managers**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/from_transistors_to_gpus_what_the_evolution_of_computing_means_for_product_managers.md) | Computing History & Strategy |
+| 📌 | [**Understanding Attention Mechanisms a Product Managers Guide**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/understanding_attention_mechanisms_a_product_managers_guide.md) | AI/ML Fundamentals |
+| 📌 | [**Coding for Pms in the Era of Ai from Faster Prototypes to Safer Shipping**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/coding_for_pms_in_the_era_of_ai_from_faster_prototypes_to_safer_shipping.md) | Technical Skills for PMs |
+| 📌 | [**Sql vs Nosql vs Vector Databases a Pm Decision Guide**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/sql_vs_nosql_vs_vector_databases_a_pm_decision_guide.md) | Data Architecture |
+| 📌 | [**How Millions Are Watching India vs Pakistan Live Without Lag**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/how_millions_are_watching_india_vs_pakistan_live_without_lag.md) | System Design |
 <!-- BLOG-LIST:END -->
 
 📖 **[View All Blogs →](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-)**
