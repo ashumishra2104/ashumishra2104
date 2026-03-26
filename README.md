@@ -21,13 +21,13 @@
 <!-- BLOG-LIST:START -->
 | 🗓️ | Title | Theme |
 |----|-------|-------|
-| 🆕 | [**Bridging the Gap how Ai is Making Arduino and Esp32 Robotics Intelligent**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/bridging_the_gap_how_ai_is_making_arduino_and_esp32_robotics_intelligent.md) | AI / ML |
+| 🆕 | [**Semantic Similarity and how Llms Understand Meaning a Pms Guide**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/semantic_similarity_and_how_llms_understand_meaning_a_pms_guide.md) | AI / ML |
+| 📌 | [**Bridging the Gap how Ai is Making Arduino and Esp32 Robotics Intelligent**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/bridging_the_gap_how_ai_is_making_arduino_and_esp32_robotics_intelligent.md) | AI / ML |
 | 📌 | [**Leveraging the 4d Framework for Product Management in the Age of Ai**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/leveraging_the_4d_framework_for_product_management_in_the_age_of_ai.md) | AI / ML |
 | 📌 | [**Ai in the Last 7 Days what Product Managers Should Actually Pay Attention to**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/ai_in_the_last_7_days_what_product_managers_should_actually_pay_attention_to.md) | AI News & PM Strategy |
 | 📌 | [**From Transistors to Gpus what the Evolution of Computing Means for Product Managers**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/from_transistors_to_gpus_what_the_evolution_of_computing_means_for_product_managers.md) | Computing History & Strategy |
 | 📌 | [**Understanding Attention Mechanisms a Product Managers Guide**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/understanding_attention_mechanisms_a_product_managers_guide.md) | AI/ML Fundamentals |
 | 📌 | [**Coding for Pms in the Era of Ai from Faster Prototypes to Safer Shipping**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/coding_for_pms_in_the_era_of_ai_from_faster_prototypes_to_safer_shipping.md) | Technical Skills for PMs |
-| 📌 | [**Sql vs Nosql vs Vector Databases a Pm Decision Guide**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/sql_vs_nosql_vs_vector_databases_a_pm_decision_guide.md) | Data Architecture |
 <!-- BLOG-LIST:END -->
 
 📖 **[View All Blogs →](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-)**
