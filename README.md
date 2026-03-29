@@ -21,13 +21,13 @@
 <!-- BLOG-LIST:START -->
 | 🗓️ | Title | Theme |
 |----|-------|-------|
-| 🆕 | [**Claudemd Folder Aware Workflows and the Newest Claude Release what Pms Need to Know**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/claudemd_folder-aware_workflows_and_the_newest_claude_release_what_pms_need_to_know.md) | PM Strategy |
+| 🆕 | [**Langgraph for Product Managers why It Matters Whats New in the Lang Family and Where to Use It**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/langgraph_for_product_managers_why_it_matters_whats_new_in_the_lang_family_and_where_to_use_it.md) | PM Strategy |
+| 📌 | [**Claudemd Folder Aware Workflows and the Newest Claude Release what Pms Need to Know**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/claudemd_folder-aware_workflows_and_the_newest_claude_release_what_pms_need_to_know.md) | PM Strategy |
 | 📌 | [**How Product Managers Can Use Agentic Orchestration Platforms Like N8n and Makecom**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/how_product_managers_can_use_agentic_orchestration_platforms_like_n8n_and_makecom.md) | AI / ML |
 | 📌 | [**Ethical Ai Under Government Scrutiny what Product Managers Need to Know in 2026**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/ethical_ai_under_government_scrutiny_what_product_managers_need_to_know_in_2026.md) | AI / ML |
 | 📌 | [**Semantic Similarity and how Llms Understand Meaning a Pms Guide**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/semantic_similarity_and_how_llms_understand_meaning_a_pms_guide.md) | AI / ML |
 | 📌 | [**Bridging the Gap how Ai is Making Arduino and Esp32 Robotics Intelligent**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/bridging_the_gap_how_ai_is_making_arduino_and_esp32_robotics_intelligent.md) | AI / ML |
 | 📌 | [**Leveraging the 4d Framework for Product Management in the Age of Ai**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/leveraging_the_4d_framework_for_product_management_in_the_age_of_ai.md) | AI / ML |
-| 📌 | [**Ai in the Last 7 Days what Product Managers Should Actually Pay Attention to**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/ai_in_the_last_7_days_what_product_managers_should_actually_pay_attention_to.md) | AI News & PM Strategy |
 <!-- BLOG-LIST:END -->
 
 📖 **[View All Blogs →](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-)**
