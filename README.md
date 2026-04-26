@@ -21,13 +21,13 @@
 <!-- BLOG-LIST:START -->
 | 🗓️ | Title | Theme |
 |----|-------|-------|
-| 🆕 | [**Sarvam Ai and Indias Ai Capability what Product Leaders Need to Know**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/sarvam_ai_and_indias_ai_capability_what_product_leaders_need_to_know.md) | AI / ML |
+| 🆕 | [**Ethical Ai for Product Managers a Case Study Driven Guide to Shipping Responsibly**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/ethical_ai_for_product_managers_a_case_study-driven_guide_to_shipping_responsibly.md) | AI / ML |
+| 📌 | [**Sarvam Ai and Indias Ai Capability what Product Leaders Need to Know**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/sarvam_ai_and_indias_ai_capability_what_product_leaders_need_to_know.md) | AI / ML |
 | 📌 | [**Transformer Architecture for Product Managers what It Enables what It Costs and how to Evaluate It**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/transformer_architecture_for_product_managers_what_it_enables_what_it_costs_and_how_to_evaluate_it.md) | PM Strategy |
 | 📌 | [**Cuda for Product Managers why a Developer Tool Now Shapes Product Strategy**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/cuda_for_product_managers_why_a_developer_tool_now_shapes_product_strategy.md) | PM Strategy |
 | 📌 | [**Pricing and Monetization Strategies Pms Should Rethink in 2026**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/pricing_and_monetization_strategies_pms_should_rethink_in_2026.md) | PM Strategy |
 | 📌 | [**How Pms Can Use Ai to Manage Stakeholders Faster Without Losing Trust**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/how_pms_can_use_ai_to_manage_stakeholders_faster_without_losing_trust.md) | AI / ML |
 | 📌 | [**Langgraph for Product Managers why It Matters Whats New in the Lang Family and Where to Use It**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/langgraph_for_product_managers_why_it_matters_whats_new_in_the_lang_family_and_where_to_use_it.md) | PM Strategy |
-| 📌 | [**Claudemd Folder Aware Workflows and the Newest Claude Release what Pms Need to Know**](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-/blob/main/claudemd_folder-aware_workflows_and_the_newest_claude_release_what_pms_need_to_know.md) | PM Strategy |
 <!-- BLOG-LIST:END -->
 
 📖 **[View All Blogs →](https://github.com/ashumishra2104/Blogs-for-Product-Managers-and-Leaders-)**
